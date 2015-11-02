@@ -1,5 +1,6 @@
 # Practicing Git
-Inspired from [git-sandbox](https://github.com/AGV-IIT-KGP/git-sandbox)
+Inspired from [git-sandbox](https://github.com/AGV-IIT-KGP/git-sandbox).
+
 This is a place to practice git. Your first exercise is to add your name to this list.
 To complete this exercise you need to:
 
