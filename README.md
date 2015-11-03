@@ -1,4 +1,6 @@
 # Practicing Git
+Inspired from [git-sandbox](https://github.com/AGV-IIT-KGP/git-sandbox).
+
 This is a place to practice git. Your first exercise is to add your name to this list.
 To complete this exercise you need to:
 
@@ -12,9 +14,9 @@ resource](https://help.github.com/articles/good-resources-for-learning-git-and-g
 
 - **Fork the repo, clone the forked repo, create a new branch, make changes and send a pull request**
   - [This article](https://help.github.com/articles/using-pull-requests/) should give you a good idea of what pull requests are how to use them.
+  - A step by step guide can be found [here](https://github.com/asmeurer/git-workflow)
 
-
-Your entry should maintain alphabetic order and it should be in the format:
+Your entry should maintain **alphabetic order** and it should be in the format:
 
 `* your name [username](http://github.com/username)`. 
 
