@@ -16,7 +16,7 @@ resource](https://help.github.com/articles/good-resources-for-learning-git-and-g
   - [This article](https://help.github.com/articles/using-pull-requests/) should give you a good idea of what pull requests are how to use them.
   - A step by step guide can be found [here](https://github.com/asmeurer/git-workflow)
 
-Here is a platform where you can ask your doubts [mlug](https://mlug.slack.com/)(mlug:mnnit linux users group).Feel free to ask.
+Here is a platform where you can ask your doubts [mlug](https://mlug.slack.com/)(**mlug** : mnnit linux users group).Feel free to ask.
 
 Your entry should maintain **alphabetic order** and it should be in the format:
 
