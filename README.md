@@ -25,8 +25,8 @@ This file is written in the [Markdown format](https://guides.github.com/features
 Lines starting with `*` are automatically rendered as bullet points and phrases containing `[name](URL)` are automatically hyperlinked.
 
 * Jatin Rungta [urdarinda](https://github.com/urdarinda)
-* Narendra Pal [npcoder2k14](https://github.com/npcoder2k14)
 * MayankPratap [MayankPratap](https://github.com/MayankPratap)
+* Narendra Pal [npcoder2k14](https://github.com/npcoder2k14)
 * Prabhat Doongarwal [pdoongarwal](https://github.com/pdoongarwal)
 * Utkarsh Gupta [khalibartan](https://github.com/khalibartan)
 
