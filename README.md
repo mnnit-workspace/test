@@ -28,6 +28,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Kartikay singh [alphaguy4](https://github.com/alphaguy4)
 * MayankPratap [MayankPratap](https://github.com/MayankPratap)
 * Narendra Pal [npcoder2k14](https://github.com/npcoder2k14)
+* Nilotpal Mrinal [nilotpal9797](https://github.com/nilotpal9797)
 * Prabhat Doongarwal [pdoongarwal](https://github.com/pdoongarwal)
 * Utkarsh Gupta [khalibartan](https://github.com/khalibartan)
 
